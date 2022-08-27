@@ -1,0 +1,10 @@
+prefix=D:/LCProjects/cpp/i3s-lib/3rdparty/libjpeg
+exec_prefix=D:/LCProjects/cpp/i3s-lib/3rdparty/libjpeg
+libdir=D:/LCProjects/cpp/i3s-lib/3rdparty/libjpeg/lib/x64/Debug
+includedir=D:/LCProjects/cpp/i3s-lib/3rdparty/libjpeg/include
+
+Name: libjpeg
+Description: A SIMD-accelerated JPEG codec that provides the libjpeg API
+Version: 2.1.4
+Libs: -L${libdir} -ljpeg
+Cflags: -I${includedir}

@@ -1,0 +1,6 @@
+Name: draco
+Description: Draco geometry de(com)pression library.
+Version: 1.5.3
+Cflags: -ID:/LCProjects/cpp/i3s-lib/build/3rdparty/x64-Clang-Debug/install/draco/include
+Libs: -LD:/LCProjects/cpp/i3s-lib/build/3rdparty/x64-Clang-Debug/install/draco/lib -ldraco
+Libs.private: 

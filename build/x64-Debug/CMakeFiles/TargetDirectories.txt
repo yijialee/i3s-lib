@@ -1,0 +1,4 @@
+D:/LCProjects/cpp/i3s-lib/build/x64-Debug/CMakeFiles/i3s.dir
+D:/LCProjects/cpp/i3s-lib/build/x64-Debug/CMakeFiles/raster2slpk.dir
+D:/LCProjects/cpp/i3s-lib/build/x64-Debug/CMakeFiles/edit_cache.dir
+D:/LCProjects/cpp/i3s-lib/build/x64-Debug/CMakeFiles/rebuild_cache.dir

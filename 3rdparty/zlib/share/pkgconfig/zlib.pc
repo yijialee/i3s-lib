@@ -1,0 +1,13 @@
+prefix=D:/LCProjects/cpp/i3s-lib/3rdparty/zlib
+exec_prefix=D:/LCProjects/cpp/i3s-lib/3rdparty/zlib
+libdir=D:/LCProjects/cpp/i3s-lib/3rdparty/zlib/lib/x64/Debug
+sharedlibdir=D:/LCProjects/cpp/i3s-lib/3rdparty/zlib/lib/x64/Debug
+includedir=D:/LCProjects/cpp/i3s-lib/3rdparty/zlib/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.12
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
